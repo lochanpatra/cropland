@@ -9,7 +9,7 @@ markdown = """
 
 st.sidebar.title("About")
 st.sidebar.info(markdown)
-logo = "https://media.istockphoto.com/id/1368722560/vector/drawing-cute-sun-cartoon-vector-illustration-in-white-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=9l8in5FloGz0TGRahE-Zeu67qrQtysa7FvlO6oc2MQ0="
+logo = "https://cdn.pixabay.com/photo/2017/07/27/09/56/sphere-stone-2544690_640.png"
 st.sidebar.image(logo)
 
 
