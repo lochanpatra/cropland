@@ -10,7 +10,7 @@ markdown = """
 
 st.sidebar.title("About")
 st.sidebar.info(markdown)
-logo = "https://emojipedia.org/laptop"
+logo = "https://cdn.pixabay.com/photo/2017/07/27/09/56/sphere-stone-2544690_640.png"
 st.sidebar.image(logo)
 
 # Customize page title
