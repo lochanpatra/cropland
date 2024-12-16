@@ -4,8 +4,7 @@ import leafmap.foliumap as leafmap
 st.set_page_config(layout="wide")
 
 markdown = """
-A Streamlit map template
-<https://github.com/opengeos/streamlit-map-template>
+
 """
 
 st.sidebar.title("About")
@@ -17,11 +16,11 @@ st.sidebar.image(logo)
 st.title("Searching Basemaps")
 st.markdown(
     """
-This app is a demonstration of searching and loading basemaps from [xyzservices](https://github.com/geopandas/xyzservices) and [Quick Map Services (QMS)](https://github.com/nextgis/quickmapservices). Selecting from 1000+ basemaps with a few clicks.
+
 """
 )
 
-with st.expander("See demo"):
+with st.expander(""):
     st.image("https://i.imgur.com/0SkUhZh.gif")
 
 row1_col1, row1_col2 = st.columns([3, 1])
