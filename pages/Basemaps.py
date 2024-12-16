@@ -9,7 +9,7 @@ markdown = """
 
 st.sidebar.title("About")
 st.sidebar.info(markdown)
-logo = "https://blog.emojipedia.org/content/images/size/w1000/2024/12/Emojipedia-AI-Emoji-Generator-Launch-Sample-Images-3x3-JPEG.jpg"
+logo = "🟩"
 st.sidebar.image(logo)
 
 
