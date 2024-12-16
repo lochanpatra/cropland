@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 
 # Customize the sidebar
 markdown = """
-
+This app is maintained by lochan patra.It uses for basemap,terrain map search and export.
 """
 
 st.sidebar.title("About")
